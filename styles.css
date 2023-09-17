@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.w3-container{
+width:200px;
+	background-color: purple;
+	border-left-color: green;
+	border-left: 5px green;
+	padding:10px;
+}
+#heading{
+	font-size:20 px;
+	color:white;
+	text-decoration:underline;
+}
